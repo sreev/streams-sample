@@ -1,6 +1,6 @@
 # Using Kafka Streams
 
-## Steam from topic `streams-plaintext-input` to topic `streams-pipe-output`.
+## Stream from topic `streams-plaintext-input` to topic `streams-pipe-output`.
 
 ### Download & Install Kafka
 Download Kafka [here](https://www.apache.org/dyn/closer.cgi?path=/kafka/2.6.0/kafka_2.13-2.6.0.tgz)
@@ -46,3 +46,5 @@ V.
 Type words/sentences and press Enter, in **Terminal#3**.
 
 Watch they appear in **Terminal#5**.
+
+:tophat: :rabbit:
